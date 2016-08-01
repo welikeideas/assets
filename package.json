@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "gitlab@git.bskyb.com:christopher.vernon/assets.git"
+    "url": "git+https://github.com/welikeideas/assets.git"
   },
   "author": "",
   "license": "ISC",
